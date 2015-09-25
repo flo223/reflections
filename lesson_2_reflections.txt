@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 I need it to have different version of my files and get a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's a pre step that allows to not wait until we have finish all the change in a logical modification to be able to save the file.
