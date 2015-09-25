@@ -1,0 +1,34 @@
+- How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It allowed me to only see the lines that changed without to have to process the whole document.
+
+
+
+- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Because I don't need to worry about delete my old without beeing able to get it back. I won't waste time to create myself old versions of my files and to clean the
+directories. I won't let too many commented code as well, because I fear that I would not been able to get back a part of my codes I'm not sure I want to delete for 
+good.
+
+- What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros --> It would be easier to compare when you need to find an information in one of your old file to be able to spot a bug. With automatic saves, there's is no way you
+would know where to look to find an old piece of code because there would not be any logical way between the differents files, and besides, there will be to many of that files.
+
+cons --> WIth manual saves, you can loose your work if you forget to save.
+
+- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because most of the time in Google docs, there is no logical interaction between the different files.
+
+- How can you use the commands git log and git diff to view the history of files?
+
+I can use git log to see all the versions of my project. Each version comes with an id. If I use git diff and paste the 2 ids of the versions I want to compare, I can view the line changes.
+
+- How might using version control make you more confident to make changes that could break something?
+
+Because I could checkout whenever I a version of my code has a bug or not
+
+- Now that you have your workspace set up, what do you want to try using Git for?
+
+I want' to do commits and have a version control of this very file
