@@ -5,3 +5,24 @@ I need it to have different version of my files and get a repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's a pre step that allows to not wait until we have finish all the change in a logical modification to be able to save the file.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Each time want to save a file, I can put it in stage area and wait to finish all the other modification to make the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+
+Branch are espacially usefull when you want to implement new features in a project, but you don't want to stop commiting other things.
+
+- How do the diagrams help you visualize the branch structure?
+
+It helps me understand better how to reach the commits and how to organnise them in branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Now we have all the changes from all the different commits in the 2 branches. We can have all the commits in the same timeline.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+You gain time with automatic merging.
