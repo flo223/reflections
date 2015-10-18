@@ -1,1 +1,5 @@
 I guess I'm not to dump to pull those changes, let see
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because i don't like people work
